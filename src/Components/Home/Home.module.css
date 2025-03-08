@@ -1,0 +1,3 @@
+.btnblue {
+    @apply bg-blue-600 rounded-lg p-3 ;
+}
