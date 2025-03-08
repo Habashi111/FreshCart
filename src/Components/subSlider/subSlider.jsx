@@ -1,5 +1,5 @@
 import React from "react";
-import "./SubSlider.module.css";
+import "./subSlider.module.css";
 import Slider from "react-slick";
 import slider1 from "../../assets/images/slider-image-2.jpeg";
 import slider2 from "../../assets/images/slider-image-1.jpeg";
